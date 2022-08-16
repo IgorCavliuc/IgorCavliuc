@@ -41,9 +41,8 @@
 ### About me/Soft Skills:
 ### I am a beginner programmer with no work experience. Everything that I studied - used for self-purposes or for the purposes of a training course.
 ### My goal as a React developer is to apply my technical skills. I have very little experience in development, but I can say that thanks to a clear goal and aspiration, I have a number of personal advantages, such as diligence, responsibility, honesty, respect for personal boundaries, self-development and others.
-### I strive to bring success to the company by developing specific IT solutions that
-will solve technical problems commonly encountered by users.
+### I strive to bring success to the company by developing specific IT solutions that will solve technical problems commonly encountered by users.
 ### I am a team player, open to change and an excellent problem solver both on my own and in a team. I can assure you that I can be a useful talent for the company.
-Looking forward to your answer (positive or negative)
+### Looking forward to your answer (positive or negative)
 
 
