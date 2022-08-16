@@ -38,6 +38,7 @@
 ### •	Extending internal business logic
 ### ______________________________________________________________________________
 ### https://github.com/cavliuc?tab=repositories (Development of own projects )
+### ______________________________________________________________________________
 ### About me/Soft Skills:
 ### I am a beginner programmer with no work experience. Everything that I studied - used for self-purposes or for the purposes of a training course.
 ### My goal as a React developer is to apply my technical skills. I have very little experience in development, but I can say that thanks to a clear goal and aspiration, I have a number of personal advantages, such as diligence, responsibility, honesty, respect for personal boundaries, self-development and others.
