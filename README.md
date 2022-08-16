@@ -1,16 +1,16 @@
 ### Hello. I'm Igor Cavliuc. I'm 22 years old. I'm passionate about programming on React (JavaScript) and learning new things.
-
+### _______
 ### Position: Front-End (React JS) 
-
+### _______
 ### Married: Yes
-
+### _______
 ### Contact:
 ### E-mail: cavliuc.serv@gmail.com
 ### Tel: 067732092
 ### Skype: live:bd30ab59b26b405b
 ### LinkedIn: Igor Cavliuc ( /igor-cavliuc-1983441b9/ )   
 ### Github: /cavliuc
-
+### _______
 ### Technical Skills:
 ### •	JavaScript
 ### •	HTML (BEM methodology)
@@ -23,15 +23,15 @@
 ### •	Fetch/Ajax response
 ### •	Package manager npm and yarn (NodeJS)
 ### •	Figma, Adobe Photoshop
-
+### _______
 ### Language Level:
 ### •	Russian – C2
 ### •	English – B1
 ### •	Romanian – A1
-
+### _______
 ### Education:
 ### Faculty of Professional Education, Gagarin Engineering and Technical Institute (did not graduate)
-
+### _______
 ### Experience:
 ### No practical experience.
 ### But he participated in the development of various projects. He also developed his own.
